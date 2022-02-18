@@ -4,7 +4,7 @@ $config = [
     'db_host' => '127.0.0.1',
     'db_name' => 'comm',
     'db_user' => 'root',
-    'db_password' => '',
+    'db_password' => 'root',
 ];
 
 $db_config = $config['db_engine'] . ":host=".$config['db_host'] . ";dbname=" . $config['db_name'];
