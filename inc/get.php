@@ -8,7 +8,7 @@
     </div>
     <div>
         <label for="password">Password*</label>
-        <input type="text" name="password" placeholder="Password" required/>
+        <input type="password" name="password" placeholder="Password" required/>
     </div>
     
     <div id="reset">
