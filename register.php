@@ -59,5 +59,5 @@ if (isset($_POST['register'])) {
         }
     }
     
-    printf($msg, '<a href="../index.php">torna indietro</a>');
+    printf($msg, '<a href="../index.php">Revenir en arrière</a>');
 }
