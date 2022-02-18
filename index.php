@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="/css/style.css">
     </head>
     <body>
-        <form method="post" action="/php/register.php">
+        <form method="post" action="register.php">
             <h1>Formulaire d'enregistrement</h1>
             <input type="email" id="email" placeholder="Email*" name="email" required>
             <input type="password" id="password" placeholder="Password*" name="password" required>
